@@ -12,5 +12,5 @@ while checko != 0:
         numberk+=2
     else:
         numberk*=2
-    checko-=20
+
 print(numberk)
